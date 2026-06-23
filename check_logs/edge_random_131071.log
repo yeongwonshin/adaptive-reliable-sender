@@ -1,0 +1,9 @@
+=== netsim summary ===
+status: SUCCESS
+payload_delivered: 131071 bytes
+bytes_total: 193297 bytes
+frames_total: 389
+frames_acked: 270
+frames_naked: 119
+K: 250
+cost: 290547

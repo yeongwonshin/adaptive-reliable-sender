@@ -1,0 +1,14 @@
+case,result,status,cost,bytes_total,frames_total
+validation1,OK,SUCCESS,4244212,4049212bytes,780
+validation2,OK,SUCCESS,4193002,3645502bytes,2190
+validation3,OK,SUCCESS,7139166,4625166bytes,10056
+validation4,OK,SUCCESS,3545868,1016868bytes,10116
+edge_empty,OK,SUCCESS,0,0bytes,0
+edge_one_byte,OK,SUCCESS,257,7bytes,1
+edge_small_text,OK,SUCCESS,291,41bytes,1
+edge_random_1k,OK,SUCCESS,12210,2460bytes,39
+edge_random_65535,OK,SUCCESS,87537,74037bytes,54
+edge_random_65536,OK,SUCCESS,90692,77442bytes,53
+edge_random_131071,OK,SUCCESS,290547,193297bytes,389
+edge_high_ber_64k,OK,SUCCESS,528871,150371bytes,1514
+edge_k_1000,OK,SUCCESS,10039,2039bytes,8

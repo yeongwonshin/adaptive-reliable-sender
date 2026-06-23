@@ -1,0 +1,12 @@
+exit_status: 0
+cmp: MATCH
+=== netsim summary ===
+status: SUCCESS
+payload_delivered: 442768 bytes
+bytes_total: 1020303 bytes
+frames_total: 10226
+frames_acked: 4740
+frames_naked: 5486
+K: 250
+cost: 3576803
+elapsed_seconds: 4.12
