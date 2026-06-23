@@ -1,4 +1,4 @@
-# Adaptive Reliable Sender (MP1)
+# Adaptive Reliable Sender 
 
 **Recommended GitHub repository name:** `adaptive-reliable-sender`
 
